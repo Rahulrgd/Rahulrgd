@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![logo](https://github.com/Rahulrgd/Rahulrgd/blob/master/My%20project-1.png)
 =======
 ![logo]([https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png](https://github.com/Rahulrgd/Rahulrgd/blob/master/My%20project-1.png))
 >>>>>>> 9b11eae46dd6f6bdb45c1d94031a357b2659b440
+=======
+![logo](https://github.com/Rahulrgd/Rahulrgd/blob/master/My%20project-1.png)
+>>>>>>> a1441730bea4d43980460a80745c3bb5804fa664
 
 <!-- ![logo](<img align="right" alt="coding" width="800" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">) -->
 
