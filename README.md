@@ -1,4 +1,4 @@
-<img align="right" alt="coding" style="max-width: 100%;max-height: 100%;" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">
+<img align="right" alt="coding" width="4000" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">
 
 <!-- ![logo](<img align="right" alt="coding" width="800" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">) -->
 
