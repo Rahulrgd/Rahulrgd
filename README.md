@@ -5,7 +5,7 @@
 <h1 align="center">Hi I am Rahul Gupta</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<img align="right" alt="coding" width="800" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 - 🔭 I’m currently working on **College Management System**
