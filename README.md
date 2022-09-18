@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Django! Framework.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
