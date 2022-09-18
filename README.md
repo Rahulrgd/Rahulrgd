@@ -1,4 +1,4 @@
-![logo]([https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png](https://github.com/Rahulrgd/Rahulrgd/blob/master/My%20project-1.png))
+![logo](https://github.com/Rahulrgd/Rahulrgd/blob/master/My%20project-1.png)
 
 <!-- ![logo](<img align="right" alt="coding" width="800" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">) -->
 
