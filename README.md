@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img alt="coding" length="4000" class="center" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">
+=======
+<img align="right" alt="coding" width="800" class="center" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">
+>>>>>>> fb5c46d90a42418799b98ea20ee9e7bef012be6a
 
 <!-- ![logo](<img align="right" alt="coding" width="800" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">) -->
 
