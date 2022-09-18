@@ -1,3 +1,5 @@
+![logo](https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png)
+
 <h1 align="center">Hi I am Rahul Gupta</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
