@@ -8,11 +8,11 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **College Management System**
+- 🔭 I’m currently working on **Job Tracker**
 
-- 🌱 I’m currently learning **Django!**
+- 🌱 I’m currently learning **Microservices**
 
-- 🤝 I’m looking for help with **Django! Framework.**
+- 🤝 I’m looking for help with **SpringBoot and React! Framework.**
 
 
 <p align="left">
