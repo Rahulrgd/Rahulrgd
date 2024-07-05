@@ -1,13 +1,11 @@
-![logo](https://github.com/Rahulrgd/Rahulrgd/blob/master/My%20project-1.png)
-
-<!-- ![logo](<img align="right" alt="coding" width="800" src="https://github.com/Rahulrgd/Rahulrgd/blob/master/RAHUL%20GUPTA.png">) -->
-
 <h1 align="center">Hi I am Rahul Gupta</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrgd&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrgd" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rahulrgd&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrgd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulrgd" alt="rahulrgd" /></a> </p>
+
+
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
